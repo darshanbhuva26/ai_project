@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en" data-clarity-unmask="true"><head>
   <meta charset="UTF-8">
   <meta property="og:site_name" content="VIZON">
-  <meta property="og:title" content="Darshan">
+  <meta property="og:title" content="VIZON">
   <meta property="og:image" content="https://vizon.tech/assets/images/homeVizon.png">
   <meta property="og:description" content="VIZON (pronounced as vision) is a deeptech startup building a futuristic &amp; immersive ecosystem of Indian tech products powered by XR [AR/VR] and AI, Computer Vision to redefine the way humans interact with technology and with each other">
   <meta name="description" content="VIZON (pronounced as vision) is a deeptech startup building a futuristic &amp; immersive ecosystem of Indian tech products powered by XR [AR/VR] and AI, Computer Vision to redefine the way humans interact with technology and with each other">
@@ -15,7 +15,7 @@
   <script src="assets/js/jquery.min.js"></script>
 
 
-  <title>D@rshan</title>
+  <title>Darshan</title>
 
   <script type="text/javascript">
     (function (c, l, a, r, i, t, y) {
@@ -384,13 +384,13 @@
           <div class="con3Left">
             <!-- <h3>or reach out to us on</h3> -->
             <div class="emailContactContainer">
-              <div><a href="mailto:ddarshanbhuva@gmail.com">
+              <div><a href="mailto:hello@vizon.tech">
                   <lord-icon src="https://cdn.lordicon.com/gzmgulpl.json" trigger="hover" colors="outline:#000000,primary:#d1efff,secondary:#d1efff" style="width:55px;height:55px;vertical-align:middle;">
                   </lord-icon>
                   <!-- <lord-icon src="https://cdn.lordicon.com/rhvddzym.json" trigger="hover" colors="primary:white"
                     style="width:40px;height:40px;vertical-align:middle;">
                   </lord-icon> -->
-                    ddarshanbhuva@gmail.com</a></div>
+                 ddarshanbhuva@gmail.com</a></div>
               <!-- <div>
                 <a href="tel:9068222604">
                   <lord-icon src="https://cdn.lordicon.com/tftaqjwp.json" trigger="hover" colors="primary:#d1efff"
